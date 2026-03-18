@@ -23,6 +23,7 @@ h1 {
 .grid img {
   display: block;
   width: 100%;
+  height: auto;
 }
 
 .grid p {
